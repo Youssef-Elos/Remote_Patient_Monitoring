@@ -1,0 +1,5 @@
+'heart_rate': random.randint(60, 140),
+        'blood_pressure': f"{random.randint(100, 160)}/{random.randint(60, 100)}",
+        'temperature': round(random.uniform(36.1, 40.5), 1),
+        'oxygen_saturation': random.randint(65, 100),
+        'respiratory_rate': random.randint(12, 90),
