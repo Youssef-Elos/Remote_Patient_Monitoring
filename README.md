@@ -68,10 +68,12 @@ Start the development server:
 ```bash
 npm run dev
 ```
-##The front-end dashboard will be accessible at http://localhost:3000.
+## The front-end dashboard will be accessible at http://localhost:3000.
+
 Usage
 Start the backend API server.
 Run the simulated IoT device to generate and send health data.
 Access the front-end dashboard to visualize real-time patient health data.
-###Contributing
+
+## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
